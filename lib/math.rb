@@ -21,5 +21,6 @@ sum = num1 % num2
 end
 
 def square_root(num)
-sum = num()
+sum = (num)
+sum
 end
